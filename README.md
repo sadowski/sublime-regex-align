@@ -1,7 +1,7 @@
 sublime-regex-align
 =====================
 
-Package for regular expression alignment in sublime text
+Package for regular expression alignment in sublime text.
 
 Installation
 ===============
@@ -44,3 +44,6 @@ After (Regex: '=>'):
 }
 ```
 
+License
+==========
+See the LICENSE.txt file.
